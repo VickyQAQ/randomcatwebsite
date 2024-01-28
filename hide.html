@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://use.typekit.net/hvr4foz.css">
+</head>
+
+<style>
+    * {
+			margin: 0;
+			padding: 0;
+		}
+    body{background-color: #405E00;}
+
+    .box{
+        width:1000px;
+        height:540px;
+        background-color:#023CD1;
+        position:absolute;
+        top:0px;
+        left:500px;
+        z-index:1
+    }
+
+    .ground{
+        width:2000px;
+        height:50%;
+        background-color:#038B00;
+        position:absolute;
+        top:50%;
+        left:0px;
+        
+    }
+    .cat{
+        width:400px;
+        height:400px;
+        position:absolute;
+        top:180px;
+        left:405px;
+        transition: 1.5s;}
+    .cat:hover{
+        transform: translateX(-80%);}
+
+    .shelf{
+        width:400px;
+        height:400px;
+        position:absolute;
+        top:160px;
+        left:800px;
+        z-index:3}
+   
+    .grass{ 
+        width:42px;
+        position:absolute;
+        left:985px; 
+        top:200px;
+        transition: 2s; 
+        z-index:5}
+
+    .bug{position:absolute;top:505px;left:1510px;z-index:6;}
+
+    .fish{
+        width:30px;
+        height:30px;
+        position:absolute;
+        top:200px;
+        left:980px;
+        transition: 1s;
+        z-index:4;}
+    .grass:hover  ~ .fish{
+        transform: translateX(-120%);}
+    .tab{
+        font-size: 25px;
+        font-family: "freight-micro-pro";
+        padding:30px;
+        position:absolute;
+        top:0px;
+        z-index: 8;}
+    .text{
+        font-size: 40px;
+        line-height: 40px;
+        color: white;
+        font-family: "freight-micro-pro";
+        padding:30px;
+        position:absolute;
+        top:30px;}
+</style>
+
+<body>
+    <div class="box"> </div>
+    <div class="ground"> </div>
+    <img src="fat.svg" class="cat">
+    <img src="shelf.svg" class="shelf">
+    <img src="grass.svg" class="grass">
+    <img src="fish.svg" class="fish">
+    <img src="bug.svg" class="bug">
+    <p class="tab"><a href="index.html" style="color:#9E9CFF; text-decoration: none;">Back</a></p>
+    <p class="text"><br>Find the 3 hidden fellas <br> in the room!</p>
+    
+    
+</body>
+</html>

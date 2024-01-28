@@ -1,0 +1,41 @@
+<svg width="860" height="880" viewBox="0 0 860 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="192.75" cy="683.75" r="148.75" fill="#002991"/>
+<circle cx="101.5" cy="812.5" r="20" fill="#9E9CFF"/>
+<circle cx="141.5" cy="812.5" r="20" fill="#9E9CFF"/>
+<circle cx="301.5" cy="812.5" r="20" fill="#00AD07"/>
+<circle cx="329" cy="785" r="20" fill="#00AD07"/>
+<circle cx="379" cy="725" r="20" fill="#00AD07"/>
+<circle cx="354" cy="755" r="20" fill="#00AD07"/>
+<circle cx="404" cy="695" r="20" fill="#00AD07"/>
+<rect x="47" y="593" width="107" height="80" fill="#9E9CFF"/>
+<path d="M201.5 633L154 673H138V593H154L201.5 633Z" fill="#9E9CFF"/>
+<rect x="61.5" y="612.5" width="17.5" height="17.5" fill="white"/>
+<rect x="96.5" y="612.5" width="17.5" height="17.5" fill="white"/>
+<path d="M0 633L46.378 673H62V593H46.378L0 633Z" fill="#9E9CFF"/>
+<path d="M46 593.5L73.5 546L101 593.5H46Z" fill="#00AD07"/>
+<path d="M101 593.5L127.25 546L153.5 593.5H101Z" fill="#00AD07"/>
+<rect x="488.883" y="685.753" width="99.7403" height="147.117" fill="#A2DB00"/>
+<rect x="603.584" y="628.403" width="17.4545" height="189.507" fill="#0F6FFF"/>
+<rect x="588.623" y="817.909" width="14.961" height="14.961" fill="#0F6FFF"/>
+<rect x="621.039" y="613.441" width="14.961" height="14.961" fill="#0F6FFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M444.001 591L494.219 640.87L494.219 640.87H444V591H444.001Z" fill="#01CA2D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M543.74 591L493.87 640.87L493.87 640.869V640.87H543.74V591H543.74Z" fill="#01CA2D"/>
+<circle cx="488.883" cy="812.922" r="19.9481" fill="#01CA2D"/>
+<circle cx="528.779" cy="812.922" r="19.9481" fill="#01CA2D"/>
+<rect x="444" y="640.87" width="99.7403" height="62.3377" fill="#01CA2D"/>
+<rect x="461.455" y="658.325" width="17.4545" height="17.4545" fill="white"/>
+<rect x="496.364" y="658.325" width="17.4545" height="17.4545" fill="white"/>
+<path d="M682.5 567.5H745C783.66 567.5 815 598.84 815 637.5V832.5H682.5V567.5Z" fill="#00C2FF"/>
+<path d="M620 512.5H745V540C745 567.614 722.614 590 695 590H670C642.386 590 620 567.614 620 540V512.5Z" fill="#7DA900"/>
+<rect x="647.5" y="532.5" width="17.5" height="17.5" fill="white"/>
+<rect x="682.5" y="532.5" width="17.5" height="17.5" fill="white"/>
+<rect x="815" y="817.5" width="15" height="15" fill="#002991"/>
+<rect x="830" y="758" width="15" height="15" fill="#002991"/>
+<rect x="830" y="803" width="15" height="15" fill="#002991"/>
+<rect x="845" y="773" width="15" height="15" fill="#002991"/>
+<rect x="845" y="788" width="15" height="15" fill="#002991"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M620 450L682.938 512.5V512.5H620V450Z" fill="#7DA900"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M745 450L682.5 512.5V512.5H745V450Z" fill="#7DA900"/>
+<circle cx="682.5" cy="812.5" r="20" fill="#7DA900"/>
+<circle cx="722.5" cy="812.5" r="20" fill="#7DA900"/>
+</svg>

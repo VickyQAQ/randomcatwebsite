@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>catcatcat</title>
+</head>
+
+<style>
+* {margin:0; padding:0;}
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    vertical-align: baseline;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center; */
+    height: 100vh;
+}
+
+/* .fat{width:489px;
+    height:500px;
+    background-image: url("fat.svg")}
+
+.small{width:274px;
+    height:500px;
+    background-image: url("small.svg")}
+    
+.tall{width:263px;
+    height:500px;
+    background-image: url("tall.svg")}*/
+
+@media only screen and (min-width:200px){
+    body{ 
+        image: url("Thin.svg");
+        background-color:#405E00
+    }
+}
+
+@media only screen and (min-width:700px){
+    body{
+        background-image: url("Mid.svg");
+        background-color:#4F80FF}
+}
+
+@media only screen and (min-width:1000px){
+    body{
+        background-image: url("Wide.svg");
+        background-color:#C8D1FF}
+}
+</style>
+
+
+
+<body>
+    <div class="fat"></div>
+    <div class="small"></div>
+    <div class="tall"></div>
+</body>
+</html>

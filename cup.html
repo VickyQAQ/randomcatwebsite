@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://use.typekit.net/hvr4foz.css">
+</head>
+<body>
+    <style>
+    * { margin: 0;
+        padding: 0;
+    }
+
+    .wall{
+    position:fixed;
+    background-color:#023CD1;
+    top:0px;
+    left:0px;
+    height:70%;
+    width:100%;
+    }
+
+    .floor{
+    position:fixed;
+    background-color:#065000;
+    top:70%;
+    left:0px;
+    height:30%;
+    width:100%;
+    }
+    
+
+    .table{
+        position:absolute;
+        width:552px;
+        left:280px;
+        top:370px;
+    }
+
+    .cupcat{
+        position:absolute;
+        width:160px;
+        left:320px;
+        top:166px;
+    }
+
+    .cup{
+        position:absolute;
+        width:90px;
+        left:300px;
+        top:282px;
+        transition: 0.5s;
+    }
+
+    .button {
+    transition-duration: 0.2s;
+    background-color:#7DA900;
+    }
+
+    .button:hover {
+    background-color: #8921DC; 
+    color: white;
+    }
+
+    .tab{
+        font-size: 25px;
+        font-family: "freight-micro-pro";
+        padding:30px;
+        position:absolute;
+        top:0px;
+        z-index: 8;
+    }
+
+</style>
+
+</body>
+    <div class="wall"></div>
+    <div class="floor"></div>
+
+    <button onclick="changeCSS()" class="button" style="position:absolute; border: none; left:1000px; top:240px; font-size: 45px; padding: 15px 32px; border-radius:80px; font-family: freight-micro-pro";>Don't!</button>
+    <img src="cupcat.svg" class="cupcat">
+    <img src="table.svg" class="table">
+    <img src="cup.svg" class="cup">
+
+    <script>
+        function changeCSS() {
+            let targetedDiv = document.querySelector('.cup');
+            targetedDiv.style.left= "200px";
+            targetedDiv.style.top= "600px";
+            targetedDiv.style.rotate= "-90deg";
+
+
+        }
+    </script>
+
+    <p class="tab">
+       <a href="index.html" style="color:#9E9CFF; text-decoration: none;">Back</a>
+    </p>
+    
+</div>
+</html>

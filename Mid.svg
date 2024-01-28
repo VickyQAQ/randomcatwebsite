@@ -1,0 +1,41 @@
+<svg width="544" height="880" viewBox="0 0 544 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="192.75" cy="680.75" r="148.75" fill="#002991"/>
+<circle cx="101.5" cy="809.5" r="20" fill="#9E9CFF"/>
+<circle cx="141.5" cy="809.5" r="20" fill="#9E9CFF"/>
+<circle cx="301.5" cy="809.5" r="20" fill="#00AD07"/>
+<circle cx="329" cy="782" r="20" fill="#00AD07"/>
+<circle cx="379" cy="722" r="20" fill="#00AD07"/>
+<circle cx="354" cy="752" r="20" fill="#00AD07"/>
+<circle cx="404" cy="692" r="20" fill="#00AD07"/>
+<rect x="47" y="590" width="107" height="80" fill="#9E9CFF"/>
+<path d="M201.5 630L154 670H138V590H154L201.5 630Z" fill="#9E9CFF"/>
+<rect x="61.5" y="609.5" width="17.5" height="17.5" fill="white"/>
+<rect x="96.5" y="609.5" width="17.5" height="17.5" fill="white"/>
+<path d="M0 630L46.378 670H62V590H46.378L0 630Z" fill="#9E9CFF"/>
+<path d="M46 590.5L73.5 543L101 590.5H46Z" fill="#00AD07"/>
+<path d="M101 590.5L127.25 543L153.5 590.5H101Z" fill="#00AD07"/>
+<rect width="100" height="147.5" transform="matrix(-1 0 0 1 244.5 384)" fill="#A2DB00"/>
+<rect width="17.5" height="190" transform="matrix(-1 0 0 1 129.5 326.5)" fill="#0F6FFF"/>
+<rect width="15" height="15" transform="matrix(-1 0 0 1 144.5 516.5)" fill="#0F6FFF"/>
+<rect width="15" height="15" transform="matrix(-1 0 0 1 112 311.5)" fill="#0F6FFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M289.5 289L239.15 339V339H289.5V289H289.5Z" fill="#01CA2D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M189.5 289L239.5 339L239.5 339V339H189.5V289H189.5Z" fill="#01CA2D"/>
+<circle cx="20" cy="20" r="20" transform="matrix(-1 0 0 1 264.5 491.5)" fill="#01CA2D"/>
+<circle cx="20" cy="20" r="20" transform="matrix(-1 0 0 1 224.5 491.5)" fill="#01CA2D"/>
+<rect width="100" height="62.5" transform="matrix(-1 0 0 1 289.5 339)" fill="#01CA2D"/>
+<rect width="17.5" height="17.5" transform="matrix(-1 0 0 1 272 356.5)" fill="white"/>
+<rect width="17.5" height="17.5" transform="matrix(-1 0 0 1 237 356.5)" fill="white"/>
+<path d="M366.5 563.5H429C467.66 563.5 499 594.84 499 633.5V828.5H366.5V563.5Z" fill="#00C2FF"/>
+<path d="M304 508.5H429V536C429 563.614 406.614 586 379 586H354C326.386 586 304 563.614 304 536V508.5Z" fill="#7DA900"/>
+<rect x="331.5" y="528.5" width="17.5" height="17.5" fill="white"/>
+<rect x="366.5" y="528.5" width="17.5" height="17.5" fill="white"/>
+<rect x="499" y="813.5" width="15" height="15" fill="#002991"/>
+<rect x="514" y="754" width="15" height="15" fill="#002991"/>
+<rect x="514" y="799" width="15" height="15" fill="#002991"/>
+<rect x="529" y="769" width="15" height="15" fill="#002991"/>
+<rect x="529" y="784" width="15" height="15" fill="#002991"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M304 446L366.938 508.5V508.5H304V446Z" fill="#7DA900"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M429 446L366.5 508.5V508.5H429V446Z" fill="#7DA900"/>
+<circle cx="366.5" cy="808.5" r="20" fill="#7DA900"/>
+<circle cx="406.5" cy="808.5" r="20" fill="#7DA900"/>
+</svg>
