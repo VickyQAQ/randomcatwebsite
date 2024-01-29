@@ -8,13 +8,10 @@
 </head>
 
 <style>
+/* eliminate white border of teh entire page*/
 * {margin:0; padding:0;}
 
-body{background-image: url("Randomcatwebsite.svg");
-background-position: center;
-background-size:contain;}
-
-
+/* insert background image and center it in the middle, I used top & left 50% and then translate 50% 50% to center because position:fixed*/
 .bg{
     width:100vw;
     height:100vh;
@@ -26,7 +23,7 @@ background-size:contain;}
     object-fit: contain;
 
 }
-
+/* These colored rectangled are created as sky and ground in the background*/
 .sky{
     position:fixed;
     background-color: #DAC8FF;
@@ -52,6 +49,7 @@ background-size:contain;}
     width:100%;
 }
 
+/* css of the title here*/
 .title{
     position:absolute;
     top:50px;
@@ -77,9 +75,8 @@ background-size:contain;}
 
 </style>
 
-
-
 <body>
+
     <img src="home1.svg" class="bg">
     <div class="ground"></div>
     <div class="floor"></div>
